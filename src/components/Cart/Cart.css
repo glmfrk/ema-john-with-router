@@ -1,0 +1,21 @@
+
+.cart_Area h5{
+   
+    padding-bottom: 10px;
+}
+.cart_Area, ul{
+    
+    list-style-type: none;
+}
+.add_cart{
+    background-color: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    width: 200px;
+    height: 26px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    border-radius: 3px;
+    vertical-align: middle;
+}

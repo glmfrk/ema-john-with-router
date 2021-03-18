@@ -1,0 +1,15 @@
+.twink_container{
+    margin: 20px ;
+    display:flex;
+    width: 100%;
+}
+.product_container{
+    width:70%;
+    margin:1%;
+    border-right:1px solid lightgray;
+}
+.cart_container{
+    width: 27%;
+    margin-left: 20px;
+    
+}

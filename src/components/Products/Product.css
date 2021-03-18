@@ -1,0 +1,26 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 12px;
+    margin-right: 5px;
+    padding-bottom: 8px;
+}
+.product_name{
+    margin-left: 10px;
+}
+.product_name h3{
+    color: rgb(72, 72, 236);
+    font-weight: 500; 
+}
+.product_name .add_cart{
+    background-color: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    width: 200px;
+    height: 26px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    border-radius: 3px;
+    vertical-align: middle;
+}

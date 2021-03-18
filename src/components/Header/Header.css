@@ -1,0 +1,30 @@
+*{padding:0px; margin:0px;outline:0px;}
+.header{
+    text-align: center;
+}
+.header img{
+    max-height: 80px;
+}
+.header nav{
+    background-color: #000;
+    height: 40px;
+    text-align: left;
+    margin-bottom: 0;
+    font-size: 20px;
+}
+.header a{
+    list-style: none;
+    display: inline-block;
+    margin-right: 15px;
+    line-height: 30px;
+    padding: 5px;
+    color: aliceblue;
+    text-decoration: none;
+    
+}
+.header a:first-child{
+    margin-left: 20px;
+}
+.header a:hover{
+    background-color: rgb(36, 35, 35);
+}
